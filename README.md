@@ -1,2 +1,2 @@
 # Typing-speed
-This project  is designed to measure a user's typing speed and accuracy.
+The project aims to improve typing skills, monitor progress, and serve as a fun way to challenge oneself or compete with friends.
