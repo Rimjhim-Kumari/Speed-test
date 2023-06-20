@@ -97,7 +97,7 @@ def play_game(event):
 root=Tk()
 root.geometry('700x600+250+30')
 root.configure(bg='gold2')
-root.title("Typing Speed Game created by Faizan Khan")
+root.title("Typing Speed Game created by Rimjhim ")
 root.iconbitmap('icon.ico')
 
 #variables
